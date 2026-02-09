@@ -22,8 +22,8 @@ export function getProjectById(id: string): Project | null {
 
 export function getAuthor(): Author {
   return {
-    name: "张三",
-    bio: "全栈开发者，热爱技术，喜欢分享。专注于 React、TypeScript 和 Node.js 开发。",
+    name: "华莱士",
+    bio: "全栈开发者，热爱技术，喜欢分享。专注于Vue、React、TypeScript 和 Node.js 开发。",
     avatar: "https://placehold.co/200x200/000000/FFFFFF?text=Avatar",
     social: {
       github: "https://github.com",
