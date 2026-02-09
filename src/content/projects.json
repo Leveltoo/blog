@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "任务管理应用",
+    "description": "一个功能完善的任务管理应用，支持拖拽排序、标签分类和数据持久化。",
+    "thumbnail": "https://placehold.co/600x400/000000/FFFFFF?text=Task+Manager",
+    "demoUrl": "https://example.com/demo",
+    "githubUrl": "https://github.com/example/task-manager",
+    "tags": ["React", "TypeScript", "Tailwind CSS"],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "天气预报 Dashboard",
+    "description": "实时天气预报应用，支持多城市切换、7天预报和数据可视化。",
+    "thumbnail": "https://placehold.co/600x400/1a1a1a/FFFFFF?text=Weather+Dashboard",
+    "demoUrl": "https://example.com/weather",
+    "githubUrl": "https://github.com/example/weather-app",
+    "tags": ["Next.js", "API", "Chart.js"],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "个人笔记应用",
+    "description": "支持 Markdown 的笔记应用，具有标签系统和全文搜索功能。",
+    "thumbnail": "https://placehold.co/600x400/2a2a2a/FFFFFF?text=Notes+App",
+    "demoUrl": "https://example.com/notes",
+    "githubUrl": "https://github.com/example/notes-app",
+    "tags": ["Vue", "Electron", "SQLite"],
+    "featured": false
+  }
+]
