@@ -47,10 +47,12 @@ export default async function AboutPage() {
   ];
 
   const techStack = [
+    { name: "Vue", category: "前端框架" },
     { name: "React", category: "前端框架" },
     { name: "Next.js", category: "全栈框架" },
+    { name: "NestJS", category: "后端框架" },
     { name: "TypeScript", category: "语言" },
-    { name: "Node.js", category: "后端" },
+    { name: "Node.js", category: "运行时" },
     { name: "Tailwind CSS", category: "样式" },
     { name: "PostgreSQL", category: "数据库" },
     { name: "Docker", category: "运维" },

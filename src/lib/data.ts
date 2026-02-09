@@ -23,12 +23,12 @@ export function getProjectById(id: string): Project | null {
 export function getAuthor(): Author {
   return {
     name: "华莱士",
-    bio: "全栈开发者，热爱技术，喜欢分享。专注于Vue、React、TypeScript 和 Node.js 开发。",
-    avatar: "https://placehold.co/200x200/000000/FFFFFF?text=Avatar",
+    bio: "全栈开发者，热爱技术，喜欢分享。专注于 Vue、React、NestJS 和 Node.js 开发。",
+    avatar: "https://placehold.co/200x200/10b981/FFFFFF?text=华",
     social: {
-      github: "https://github.com",
+      github: "https://github.com/Leveltoo",
       twitter: "https://twitter.com",
-      email: "hello@example.com",
+      email: "1056480375@qq.com",
     },
   };
 }
